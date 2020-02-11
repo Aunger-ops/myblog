@@ -203,7 +203,7 @@ main {
   overflow: auto; }
   .site-layer-reward div {
     width: 100%;
-    padding: 10px calc(50% - 128px);
+    padding: 0px calc(100% - 400px); /* 原来是 10px calc(50% - 128px);*/
     text-align: center; }
     .site-layer-reward div img {
       width: 256px;
