@@ -568,7 +568,7 @@ main {
         transition: all .15s linear; }
       .passage-article h1::before, .passage-article h2::before, .passage-article h3::before, .passage-article h4::before, .passage-article h5::before, .passage-article h6::before {
         font-size: 0.8em;
-        content: "🏻";
+        content: "⚾";
         color: #F4511E;
         font-family: FontAwesome; }
       .passage-article h1:hover a, .passage-article h2:hover a, .passage-article h3:hover a, .passage-article h4:hover a, .passage-article h5:hover a, .passage-article h6:hover a {
