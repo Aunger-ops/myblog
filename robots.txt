@@ -1,0 +1,8 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
+User-agent: *
+Disallow: 
+Crawl-delay: 60
+Disallow: /admin
+Disallow: /css
+Disallow: /js
+Sitemap: https://www.webaun.cn/sitemap.xml

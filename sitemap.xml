@@ -7,117 +7,66 @@
 >
 
 <url>
- <loc>https://webaun.cn/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
+ <loc>https://www.webaun.cn/categories</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-14</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>https://webaun.cn/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
+ <loc>https://www.webaun.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-14</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>https://webaun.cn/archives/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
+ <loc>https://www.webaun.cn/about</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-14</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>https://webaun.cn/tags/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
+ <loc>https://www.webaun.cn/archives</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-14</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>https://webaun.cn/categories/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
+ <loc>https://www.webaun.cn/friends</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-14</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>https://webaun.cn/friends/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
+ <loc>https://www.webaun.cn/tags</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-14</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>https://webaun.cn/about/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
+ <loc>https://www.webaun.cn/passages/1</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-14</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>https://webaun.cn/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
+ <loc>https://www.webaun.cn/passages/2</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-14</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>https://webaun.cn/archives/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
+ <loc>https://www.webaun.cn/passages/3</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-14</lastmod>
  <changefreq>weekly</changefreq>
 </url>
-<url>
- <loc>https://webaun.cn/tags/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://webaun.cn/categories/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://webaun.cn/friends/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://webaun.cn/about/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://webaun.cn/passages/3/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://webaun.cn/passages/3/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://webaun.cn/passages/2/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://webaun.cn/passages/2/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://webaun.cn/passages/1/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://webaun.cn/passages/1/</loc>
- <priority>0.5</priority>
- <lastmod>2020-2-13</lastmod>
- <changefreq>weekly</changefreq>
-</url>
+
 </urlset>
