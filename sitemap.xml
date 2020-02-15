@@ -7,66 +7,87 @@
 >
 
 <url>
+ <loc>https://www.webaun.cn/categories/%E8%AF%BE%E8%A1%A8%E5%8A%A9%E6%89%8B</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
  <loc>https://www.webaun.cn/categories</loc>
  <priority>0.3</priority>
- <lastmod>2020-02-14</lastmod>
- <changefreq>weekly</changefreq>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://www.webaun.cn/</loc>
  <priority>0.3</priority>
- <lastmod>2020-02-14</lastmod>
- <changefreq>weekly</changefreq>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://www.webaun.cn/about</loc>
  <priority>0.3</priority>
- <lastmod>2020-02-14</lastmod>
- <changefreq>weekly</changefreq>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://www.webaun.cn/archives</loc>
  <priority>0.3</priority>
- <lastmod>2020-02-14</lastmod>
- <changefreq>weekly</changefreq>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://www.webaun.cn/friends</loc>
  <priority>0.3</priority>
- <lastmod>2020-02-14</lastmod>
- <changefreq>weekly</changefreq>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://www.webaun.cn/categories/Hexo</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://www.webaun.cn/tags</loc>
  <priority>0.3</priority>
- <lastmod>2020-02-14</lastmod>
- <changefreq>weekly</changefreq>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>https://www.webaun.cn/passages/6</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://www.webaun.cn/passages/1</loc>
  <priority>0.3</priority>
- <lastmod>2020-02-14</lastmod>
- <changefreq>weekly</changefreq>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://www.webaun.cn/passages/2</loc>
  <priority>0.3</priority>
- <lastmod>2020-02-14</lastmod>
- <changefreq>weekly</changefreq>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
 </url>
 
 <url>
  <loc>https://www.webaun.cn/passages/3</loc>
  <priority>0.3</priority>
- <lastmod>2020-02-14</lastmod>
- <changefreq>weekly</changefreq>
+ <lastmod>2020-02-15</lastmod>
+ <changefreq>daily</changefreq>
 </url>
 
 </urlset>
