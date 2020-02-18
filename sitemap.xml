@@ -1,110 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 15 Generated at: 2020-02-16 12:32:43 -->
-
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
   <url>
-    <loc>https://www.webaun.cn/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.00</priority>
+    <loc>http://webaun.xyz/friends/index.html</loc>
+    
+    <lastmod>2020-02-16T14:55:50.267Z</lastmod>
+    
   </url>
-
+  
   <url>
-    <loc>https://www.webaun.cn/archives/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.00</priority>
+    <loc>http://webaun.xyz/about/index.html</loc>
+    
+    <lastmod>2020-02-16T05:00:02.286Z</lastmod>
+    
   </url>
-
+  
   <url>
-    <loc>https://www.webaun.cn/categories/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.00</priority>
+    <loc>http://webaun.xyz/passages/4/</loc>
+    
+    <lastmod>2020-02-16T04:24:46.686Z</lastmod>
+    
   </url>
-
+  
   <url>
-    <loc>https://www.webaun.cn/tags/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.00</priority>
+    <loc>http://webaun.xyz/passages/5/</loc>
+    
+    <lastmod>2020-02-16T04:24:42.813Z</lastmod>
+    
   </url>
-
+  
   <url>
-    <loc>https://www.webaun.cn/about/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.00</priority>
+    <loc>http://webaun.xyz/tags/index.html</loc>
+    
+    <lastmod>2020-02-15T15:28:12.300Z</lastmod>
+    
   </url>
-
+  
   <url>
-    <loc>https://www.webaun.cn/passages/5/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.00</priority>
+    <loc>http://webaun.xyz/categories/index.html</loc>
+    
+    <lastmod>2020-02-15T15:27:43.063Z</lastmod>
+    
   </url>
-
+  
   <url>
-    <loc>https://www.webaun.cn/categories/PHP/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.00</priority>
+    <loc>http://webaun.xyz/passages/1/</loc>
+    
+    <lastmod>2020-02-15T14:13:48.378Z</lastmod>
+    
   </url>
-
+  
   <url>
-    <loc>https://www.webaun.cn/tags/Laravel/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.00</priority>
+    <loc>http://webaun.xyz/passages/2/</loc>
+    
+    <lastmod>2020-02-15T14:03:35.609Z</lastmod>
+    
   </url>
-
+  
   <url>
-    <loc>https://www.webaun.cn/passages/3/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.90</priority>
+    <loc>http://webaun.xyz/passages/3/</loc>
+    
+    <lastmod>2020-02-15T11:44:10.363Z</lastmod>
+    
   </url>
-
-  <url>
-    <loc>https://www.webaun.cn/passages/4/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.90</priority>
-  </url>
-
-  <url>
-    <loc>https://www.webaun.cn/passages/2/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.90</priority>
-  </url>
-
-  <url>
-    <loc>https://www.webaun.cn/categories/Hexo/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.88</priority>
-  </url>
-
-  <url>
-    <loc>https://www.webaun.cn/categories/%E8%AF%BE%E8%A1%A8%E5%8A%A9%E6%89%8B/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.88</priority>
-  </url>
-
-  <url>
-    <loc>https://www.webaun.cn/passages/1/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.88</priority>
-  </url>
-
-  <url>
-    <loc>https://www.webaun.cn/tags/PHP/</loc>
-    <lastmod>2020-02-16T12:31:46.000+0800</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
-  </url>
-
+  
 </urlset>
