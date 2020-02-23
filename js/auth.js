@@ -32,8 +32,9 @@
     ' 🎉 https://github.com/dongyuanxin/theme-ad 🎉\n' + 
     '\n%c Preview Online %c' + 
     ' 🔍 https://godbmw.com/ 🔍  \n' +
+    '\n%c Welcome Page %c' + 
     ' 😃 你好！欢迎来到本站！ 😃  \n' +
-    ' 📧 站长反馈邮箱：anjiejo@qq.com  📧 \n', 
+    '  📧 站长反馈邮箱：anjiejo@qq.com  📧 \n', 
     'color: #fadfa3; background: #030307; padding:3px 0;', '', 'color: #fadfa3; background: #030307; padding:3px 0;', ''
   );
 
