@@ -20,7 +20,7 @@ var vm = new Vue({
         requestData() {
             var arr = []
             this.$http.get(
-                'http://lab.webaun.xyz/新建文件夹/get.php', {
+                'http://lab.webaun.xyz/get.php', {
                     params: {
                         page: this.page,
                         count: this.count
