@@ -14,7 +14,7 @@
       return; 
     }
 
-    password = prompt('输入您的名称小写全拼 (例如: 李三 => lisan)');
+    password = prompt('输入文章访问密码（密码可发anjiejo@qq.com邮件获取）');
     password = sha256(password || '');
 
     if(passwords.includes(password)) {
