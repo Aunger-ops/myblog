@@ -13,8 +13,8 @@
 
   let platformIndex = 0,
     platforms = [
-      'Google',
       'BaiDu',
+      'Google',
       'Bing'
     ];
 
