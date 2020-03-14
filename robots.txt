@@ -1,8 +1,13 @@
-# robots.txt generated at http://tool.chinaz.com/robots/ 
 User-agent: *
-Disallow: 
-Crawl-delay: 60
-Disallow: /admin
-Disallow: /css
-Disallow: /js
-Sitemap: https://www.webaun.cn/sitemap.xml
+Allow: /
+Allow: /home/
+Allow: /archives/
+Allow: /gallery/
+Allow: /about/
+Allow: /links/
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+Disallow: /fancybox/
+Sitemap: https://zhwangart.github.io/sitemap.xml
+Sitemap: https://zhwangart.github.io/baidusitemap.xml
