@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Aunger&#39;s Blog</title>
+  <title>Geek | Designer</title>
   
   <subtitle>热爱的事物要不遗余力。</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -25,7 +25,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;安全问题无小事，web前端是Web安全的第一道屏障，本篇结合真实案例及相关资料，汇总整理了前端方面的安全防护措施,请大家一定要重视。如有遇到新的问题，欢迎反馈。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;安全问题无小事，web前端是Web安全的第一道屏障，本篇结合真实案例及相关资料，汇总整理了前端方面的安全防护措施,请大家一定要重视。如有遇到新的问题，欢迎反馈。&lt;/p&gt;
     
     </summary>
     
@@ -52,7 +52,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;折腾完技术，该开始折腾游戏了。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;折腾完技术，该开始折腾游戏了。&lt;/p&gt;
     
     </summary>
     
@@ -64,15 +64,15 @@
       <category term="UI设计" scheme="https://www.webaun.cn/categories/JS/%E5%89%8D%E7%AB%AF/UI%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="JS" scheme="https://www.webaun.cn/tags/JS/"/>
-    
-      <category term="前端" scheme="https://www.webaun.cn/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="PHP" scheme="https://www.webaun.cn/tags/PHP/"/>
-    
       <category term="王者荣耀" scheme="https://www.webaun.cn/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/"/>
     
       <category term="API" scheme="https://www.webaun.cn/tags/API/"/>
+    
+      <category term="JS" scheme="https://www.webaun.cn/tags/JS/"/>
+    
+      <category term="PHP" scheme="https://www.webaun.cn/tags/PHP/"/>
+    
+      <category term="前端" scheme="https://www.webaun.cn/tags/%E5%89%8D%E7%AB%AF/"/>
     
       <category term="UI设计" scheme="https://www.webaun.cn/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
@@ -87,7 +87,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上的导出特定网站的cookie方法多种多样，大多操作复杂，这是我总结得出的简单一步导出相应网站cookie。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上的导出特定网站的cookie方法多种多样，大多操作复杂，这是我总结得出的简单一步导出相应网站cookie。&lt;/p&gt;
     
     </summary>
     
@@ -112,7 +112,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;疫情期间网络授课，临近上课教务系统居然下载不了授课计划？&lt;br&gt;经过一番研究，正方助手更新新功能可进行修复教务系统“请求文件不存在”问题。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;疫情期间网络授课，临近上课教务系统居然下载不了授课计划？&lt;br&gt;经过一番研究，正方助手更新新功能可进行修复教务系统“请求文件不存在”问题。&lt;/p&gt;
     
     </summary>
     
@@ -131,7 +131,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;HomeAssistant的Devicetracker是个非常有用的组件，通过设备追踪可以判断设备的在线情况从而执行不同的自动化操作。可是iPhone的睡眠策略（长时间睡眠后断开WiFI）会导致设备追踪误以为设备已经离开从而执行「不在家」的自动化…..&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;HomeAssistant的Devicetracker是个非常有用的组件，通过设备追踪可以判断设备的在线情况从而执行不同的自动化操作。可是iPhone的睡眠策略（长时间睡眠后断开WiFI）会导致设备追踪误以为设备已经离开从而执行「不在家」的自动化…..&lt;/p&gt;
     
     </summary>
     
@@ -162,7 +162,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;从一次游戏活动页面学习到的JS完成前端运行可预测、可控制的随机文字生成。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;从一次游戏活动页面学习到的JS完成前端运行可预测、可控制的随机文字生成。&lt;/p&gt;
     
     </summary>
     
@@ -187,7 +187,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Keil的编程环境落后、伤眼、用起来不舒适？工欲善其事，必先利其器。VSCode + SDCC助你在C51单片机嵌入式开发上游刃有余。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Keil的编程环境落后、伤眼、用起来不舒适？工欲善其事，必先利其器。VSCode + SDCC助你在C51单片机嵌入式开发上游刃有余。&lt;/p&gt;
     
     </summary>
     
@@ -210,7 +210,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Smali语法适用于Android逆向分析，是学习Android反编译，审查app应用代码漏洞，破解app应用的基础。本文将分为多章内容，简洁明了说明Smali语法命令的各种意义。让读者快速掌握Smali语法，便利于反编译程序员对记忆不清的命令意义进行搜索。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Smali语法适用于Android逆向分析，是学习Android反编译，审查app应用代码漏洞，破解app应用的基础。本文将分为多章内容，简洁明了说明Smali语法命令的各种意义。让读者快速掌握Smali语法，便利于反编译程序员对记忆不清的命令意义进行搜索。&lt;/p&gt;
     
     </summary>
     
@@ -231,7 +231,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Laravel是一个功能强大的框架，组件很多，代码也很庞大，它的易用方便是以牺牲性能为前提的，即便如此它仍然是一个优秀、主流的框架，但在正式环境下还要做好优化提升网站的运行速度。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Laravel是一个功能强大的框架，组件很多，代码也很庞大，它的易用方便是以牺牲性能为前提的，即便如此它仍然是一个优秀、主流的框架，但在正式环境下还要做好优化提升网站的运行速度。&lt;/p&gt;
     
     </summary>
     
@@ -254,7 +254,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;前面提到用 Hexo-local-admin 使 Hexo 的管理可视化，但使用一段时间后发现，Hexo-local-admin 不支持 mrakdown 在线编辑的缺点实在令人头疼…&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;前面提到用 Hexo-local-admin 使 Hexo 的管理可视化，但使用一段时间后发现，Hexo-local-admin 不支持 mrakdown 在线编辑的缺点实在令人头疼…&lt;/p&gt;
     
     </summary>
     
@@ -273,7 +273,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;最近把博客系统从 Typecho 转到了 Hexo，但是 Hexo 的命令行写文章在我心头一直是一块硬疙瘩。用了很多可视化管理工具，最终还是认定了 hexo-local-admin。👍&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;最近把博客系统从 Typecho 转到了 Hexo，但是 Hexo 的命令行写文章在我心头一直是一块硬疙瘩。用了很多可视化管理工具，最终还是认定了 hexo-local-admin。👍&lt;/p&gt;
     
     </summary>
     
@@ -292,7 +292,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一个比比较特别更特别的 正方 小助手V2.0 🥰&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一个比比较特别更特别的 正方 小助手V2.0 🥰&lt;/p&gt;
     
     </summary>
     
@@ -311,7 +311,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 15 2020 00:08:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一个比较特别的 正方 小助手😄 😁&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 15 2020 19:17:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一个比较特别的 正方 小助手😄 😁&lt;/p&gt;
     
     </summary>
     
