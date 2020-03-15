@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.webaun.cn/"/>
-  <updated>2020-03-11T09:32:59.612Z</updated>
+  <updated>2020-03-15T16:15:02.046Z</updated>
   <id>https://www.webaun.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>巧用Tencent官方模块进行文章排版</title>
+    <link href="https://www.webaun.cn/passages/14/"/>
+    <id>https://www.webaun.cn/passages/14/</id>
+    <published>2020-03-15T15:51:53.000Z</published>
+    <updated>2020-03-15T16:15:02.046Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Mar 16 2020 00:15:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;学习TGideas的经验时偶然发现了腾讯官方用于文章排版的一个小工具，且应用十分简单，只需要增加一段代码即可。这个插件不仅可以对冗余样式、缩进的文章代码进行优化，并且还支持背景颜色的设置。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.webaun.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JS" scheme="https://www.webaun.cn/tags/JS/"/>
+    
+      <category term="前端" scheme="https://www.webaun.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>WEB前端安全手册</title>
