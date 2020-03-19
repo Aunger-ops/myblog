@@ -127,25 +127,6 @@
   </entry>
   
   <entry>
-    <title>正方系统解决 “请求文件不存在” 问题</title>
-    <link href="https://www.webaun.cn/passages/10/"/>
-    <id>https://www.webaun.cn/passages/10/</id>
-    <published>2020-03-02T02:22:37.000Z</published>
-    <updated>2020-03-05T12:20:10.142Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Mon Mar 16 2020 17:00:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;疫情期间网络授课，临近上课教务系统居然下载不了授课计划？&lt;br&gt;经过一番研究，正方助手更新新功能可进行修复教务系统“请求文件不存在”问题。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="课表助手" scheme="https://www.webaun.cn/categories/%E8%AF%BE%E8%A1%A8%E5%8A%A9%E6%89%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>设备智能化「在家」状态的一些思考</title>
     <link href="https://www.webaun.cn/passages/9/"/>
     <id>https://www.webaun.cn/passages/9/</id>
@@ -302,44 +283,6 @@
     
     
       <category term="Hexo" scheme="https://www.webaun.cn/categories/Hexo/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>正方小助手 V2.0 💡</title>
-    <link href="https://www.webaun.cn/passages/2/"/>
-    <id>https://www.webaun.cn/passages/2/</id>
-    <published>2020-02-13T09:41:15.000Z</published>
-    <updated>2020-03-05T12:20:14.263Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Mon Mar 16 2020 17:00:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一个比比较特别更特别的 正方 小助手V2.0 🥰&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="课表助手" scheme="https://www.webaun.cn/categories/%E8%AF%BE%E8%A1%A8%E5%8A%A9%E6%89%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>正方小助手 V1.0 🤖</title>
-    <link href="https://www.webaun.cn/passages/1/"/>
-    <id>https://www.webaun.cn/passages/1/</id>
-    <published>2020-02-11T07:57:13.000Z</published>
-    <updated>2020-03-05T12:20:06.850Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Mon Mar 16 2020 17:00:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一个比较特别的 正方 小助手😄 😁&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="课表助手" scheme="https://www.webaun.cn/categories/%E8%AF%BE%E8%A1%A8%E5%8A%A9%E6%89%8B/"/>
     
     
   </entry>

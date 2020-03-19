@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.webaun.cn/gallery/index.html</loc>
+    
+    <lastmod>2020-03-17T09:48:24.070Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.webaun.cn/friends/index.html</loc>
+    
+    <lastmod>2020-03-17T09:44:01.543Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.webaun.cn/about/index.html</loc>
     
     <lastmod>2020-03-16T01:10:40.492Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://www.webaun.cn/passages/14/</loc>
     
     <lastmod>2020-03-15T16:15:02.046Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.webaun.cn/friends/index.html</loc>
-    
-    <lastmod>2020-03-14T15:20:02.452Z</lastmod>
     
   </url>
   
@@ -40,27 +47,6 @@
     <loc>https://www.webaun.cn/passages/11/</loc>
     
     <lastmod>2020-03-10T04:22:28.044Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.webaun.cn/passages/2/</loc>
-    
-    <lastmod>2020-03-05T12:20:14.263Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.webaun.cn/passages/10/</loc>
-    
-    <lastmod>2020-03-05T12:20:10.142Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.webaun.cn/passages/1/</loc>
-    
-    <lastmod>2020-03-05T12:20:06.850Z</lastmod>
     
   </url>
   
