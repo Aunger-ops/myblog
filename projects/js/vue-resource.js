@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/assets/css/APlayer.min.css"><script src="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*!
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*!
  * vue-resource v1.3.4
  * https://github.com/pagekit/vue-resource
  * Released under the MIT License.

@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/assets/css/APlayer.min.css"><script src="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*!
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*!
  * Vue.js v2.5.1
  * (c) 2014-2017 Evan You
  * Released under the MIT License.
