@@ -1,4 +1,4 @@
-/*!
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*!
  * Vue.js v2.5.1
  * (c) 2014-2017 Evan You
  * Released under the MIT License.
