@@ -9,5 +9,5 @@ Disallow: /images/
 Disallow: /css/
 Disallow: /js/
 Disallow: /fancybox/
-Sitemap: https://zhwangart.github.io/sitemap.xml
-Sitemap: https://zhwangart.github.io/baidusitemap.xml
+Sitemap: https://www.webaun.cn/sitemap.xml
+Sitemap: https://webaun.cn/baidusitemap.xml
