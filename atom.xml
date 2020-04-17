@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.webaun.cn/"/>
-  <updated>2020-04-05T15:45:38.321Z</updated>
+  <updated>2020-04-17T09:49:56.505Z</updated>
   <id>https://www.webaun.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo + leancloud 搭建国内快速独立博客</title>
+    <link href="https://www.webaun.cn/passages/18/"/>
+    <id>https://www.webaun.cn/passages/18/</id>
+    <published>2020-04-16T08:42:28.000Z</published>
+    <updated>2020-04-17T09:49:56.505Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Apr 17 2020 17:50:40 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上关于使用免费代码托管平台部署独立博客的文章很多：Github Pages、Netlify、七牛云OSS…..但大多数都是用LeanCloud部署评论存储，有点大材小用。正巧网站刚刚通过了备案，在此做一份使用LeanCloud来部署Hexo博客的教程。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://www.webaun.cn/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://www.webaun.cn/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>使Hexo自动从摘要中提取 description🔨</title>
