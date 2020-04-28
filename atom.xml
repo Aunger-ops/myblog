@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.webaun.cn/"/>
-  <updated>2020-04-25T11:04:31.605Z</updated>
+  <updated>2020-04-28T05:39:25.487Z</updated>
   <id>https://www.webaun.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Pjax多点局部同步加载</title>
+    <link href="https://www.webaun.cn/passages/22/"/>
+    <id>https://www.webaun.cn/passages/22/</id>
+    <published>2020-04-28T04:59:50.000Z</published>
+    <updated>2020-04-28T05:39:25.487Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Apr 28 2020 13:40:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;优化项目时的踩坑日记，使用Pjax多个局部无刷新同步获取。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="踩坑日记" scheme="https://www.webaun.cn/categories/%E8%B8%A9%E5%9D%91%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="前端" scheme="https://www.webaun.cn/categories/%E8%B8%A9%E5%9D%91%E6%97%A5%E8%AE%B0/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JS" scheme="https://www.webaun.cn/tags/JS/"/>
+    
+      <category term="前端" scheme="https://www.webaun.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>Phalapi 2.x Redis调用命令大全</title>
