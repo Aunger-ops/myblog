@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script>Vue.component('card-item', {
+Vue.component('card-item', {
     template: '#card-item',
     props: ['title', 'desc', 'icon', 'time', 'url', 'color'],
 })
@@ -9,7 +9,7 @@ var vm = new Vue({
         itemArr: [],
         moreText: "加载更多",
         page: 1,
-        count: 9,
+        count: 3,
         loading: true,
         isMore: false
     },
@@ -20,7 +20,7 @@ var vm = new Vue({
         requestData() {
             var arr = []
             this.$http.get(
-                'http://lab.webaun.xyz/get.php', {
+                './projects.json', {
                     params: {
                         page: this.page,
                         count: this.count
@@ -32,7 +32,7 @@ var vm = new Vue({
                         this.itemArr.push(res.data.data[i])
                     }
                     this.page++
-                    this.isMore = true
+                    this.isMore = false
                 } else {
                     this.moreText = "暂无更多"
                     this.isMore = false
