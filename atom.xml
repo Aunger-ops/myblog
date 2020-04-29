@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.webaun.cn/"/>
-  <updated>2020-04-28T05:39:25.487Z</updated>
+  <updated>2020-04-29T01:16:33.485Z</updated>
   <id>https://www.webaun.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>转载《我怀念那个没有杠精、键盘侠的互联网》</title>
+    <link href="https://www.webaun.cn/passages/23/"/>
+    <id>https://www.webaun.cn/passages/23/</id>
+    <published>2020-04-29T01:10:50.000Z</published>
+    <updated>2020-04-29T01:16:33.485Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Wed Apr 29 2020 09:16:58 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;微信公众号”书单”发布的一篇文章，引发共鸣。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="读书日记" scheme="https://www.webaun.cn/categories/%E8%AF%BB%E4%B9%A6%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="正能量" scheme="https://www.webaun.cn/categories/%E8%AF%BB%E4%B9%A6%E6%97%A5%E8%AE%B0/%E6%AD%A3%E8%83%BD%E9%87%8F/"/>
+    
+    
+      <category term="正能量" scheme="https://www.webaun.cn/tags/%E6%AD%A3%E8%83%BD%E9%87%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>Pjax多点局部同步加载</title>
