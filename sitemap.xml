@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.webaun.cn/friends/index.html</loc>
+    
+    <lastmod>2020-05-01T10:26:01.633Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.webaun.cn/passages/23/</loc>
     
     <lastmod>2020-04-29T01:16:33.485Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>https://www.webaun.cn/passages/20/</loc>
     
     <lastmod>2020-04-25T10:31:16.365Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.webaun.cn/friends/index.html</loc>
-    
-    <lastmod>2020-04-22T08:17:55.374Z</lastmod>
     
   </url>
   
