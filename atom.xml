@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.webaun.cn/"/>
-  <updated>2020-04-29T01:16:33.485Z</updated>
+  <updated>2020-05-01T13:34:18.080Z</updated>
   <id>https://www.webaun.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生活面板进度[50%],做个纪念</title>
+    <link href="https://www.webaun.cn/passages/24/"/>
+    <id>https://www.webaun.cn/passages/24/</id>
+    <published>2020-05-01T12:40:45.000Z</published>
+    <updated>2020-05-01T13:34:18.080Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri May 01 2020 21:34:43 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;前段时间心血来潮做了个生活面板，通过调用自己写的API。目前已经完成一大半。雏版发出来，纪念一下。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="生活日记" scheme="https://www.webaun.cn/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="智能家居" scheme="https://www.webaun.cn/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/"/>
+    
+    
+      <category term="PHP" scheme="https://www.webaun.cn/tags/PHP/"/>
+    
+      <category term="智能家居" scheme="https://www.webaun.cn/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/"/>
+    
+  </entry>
   
   <entry>
     <title>转载《我怀念那个没有杠精、键盘侠的互联网》</title>
@@ -474,25 +499,6 @@
     <summary type="html">
     
       &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;前面提到用 Hexo-local-admin 使 Hexo 的管理可视化，但使用一段时间后发现，Hexo-local-admin 不支持 mrakdown 在线编辑的缺点实在令人头疼…&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Hexo" scheme="https://www.webaun.cn/categories/Hexo/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>推荐一款Hexo可视化管理工具🔨</title>
-    <link href="https://www.webaun.cn/passages/3/"/>
-    <id>https://www.webaun.cn/passages/3/</id>
-    <published>2020-02-15T14:55:34.000Z</published>
-    <updated>2020-03-04T01:51:07.095Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;最近把博客系统从 Typecho 转到了 Hexo，但是 Hexo 的命令行写文章在我心头一直是一块硬疙瘩。用了很多可视化管理工具，最终还是认定了 hexo-local-admin。👍&lt;/p&gt;
     
     </summary>
     
