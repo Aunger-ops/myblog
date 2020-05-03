@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>为心爱的框架开发了第一套主题❤️</title>
+    <url>/passages/25/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- build time:Mon May 04 2020 00:13:52 GMT+0800 (GMT+08:00) --><p>使用Creat-Tim的组件，做的第一份主题作品。<br>应用于PhalAPI框架</p><a id="more"></a><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>PhalApi是一个PHP轻量级开源接口框架，致力于快速开发接口服务。支持HTTP/SOAP/RPC等协议，可用于搭建接口/微服务/RESTful接口/Web Services。并且也可以自动生成API接口文档。<br>使用这份优秀的开源项目已久，于是花了两天时间折腾出了第一套主题。以作为学习前端的实习作品。<br>在此特别感谢<a href="https://www.phalapi.net/" target="_blank" rel="noopener" title="dogstar">dogstar</a>及其团队，对框架的长时间维护。</p><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p><img src="/images/loading.gif" data-original="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/images/2020/25/1.png" alt="第一套主题" title="第一套主题"></p><p><img src="/images/loading.gif" data-original="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/images/2020/25/2.png" alt="第一套主题" title="第一套主题"></p><p><img src="/images/loading.gif" data-original="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/images/2020/25/3.png" alt="第一套主题" title="第一套主题"></p><!-- rebuild by neat -->]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+        <tag>UI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>生活面板进度[50%]</title>
     <url>/passages/24/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- build time:Sun May 03 2020 16:37:45 GMT+0800 (GMT+08:00) --><p>前段时间心血来潮做了个生活面板，通过调用自己写的API。目前已经完成一大半。雏版发出来，纪念一下。</p><a id="more"></a><h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><ul><li>显示宿舍用电情况，及剩余电费</li><li>实时监控博客服务器状态</li><li>今日天气情况，及生活提示</li><li>已志愿服务时长</li><li>每日一诗</li><li>微博订阅</li><li>工作待办提醒</li><li>家居开关 【PHP + SWOOLE】</li><li>微博新热点提醒</li><li>随客户端所在位置，日出日落时间调整页面配色模式</li><li>每日生成食谱，推荐今日中午晚餐吃啥</li><li>我想到再说…….</li></ul><h2 id="效果预览"><a href="#效果预览" class="headerlink" title="效果预览"></a>效果预览</h2><p><strong>白天</strong></p><p><img src="/images/loading.gif" data-original="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/images/2020/23/%E7%99%BD%E5%A4%A9.png" alt="生活面板" title="生活面板"></p><p><strong>晚上</strong></p><p><img src="/images/loading.gif" data-original="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/images/2020/23/%E6%99%9A%E4%B8%8A.png" alt="生活面板" title="生活面板"></p><p><strong>待办工作</strong></p><p><img src="/images/loading.gif" data-original="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/images/2020/23/%E5%BE%85%E5%8A%9E%E5%B7%A5%E4%BD%9C.png" alt="生活面板" title="生活面板"></p><p><strong>家居开关</strong></p><p><img src="/images/loading.gif" data-original="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/images/2020/23/%E5%AE%B6%E5%B1%85%E5%BC%80%E5%85%B3.png" alt="生活面板" title="生活面板"></p><p><strong>微博订阅</strong></p><p><img src="/images/loading.gif" data-original="https://cdn.jsdelivr.net/gh/Aunger-ops/myblog@latest/images/2020/23/%E5%BE%AE%E5%8D%9A%E8%AE%A2%E9%98%85.png" alt="生活面板" title="生活面板"></p><!-- rebuild by neat -->]]></content>
