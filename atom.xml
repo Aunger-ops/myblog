@@ -25,7 +25,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed May 06 2020 11:32:45 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;使用Creat-Tim的组件，做的第一份主题作品。&lt;br&gt;应用于PhalAPI框架&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;使用Creat-Tim的组件，做的第一份主题作品。&lt;br&gt;应用于PhalAPI框架&lt;/p&gt;
     
     </summary>
     
@@ -48,7 +48,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun May 03 2020 16:37:45 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;前段时间心血来潮做了个生活面板，通过调用自己写的API。目前已经完成一大半。雏版发出来，纪念一下。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;前段时间心血来潮做了个生活面板，通过调用自己写的API。目前已经完成一大半。雏版发出来，纪念一下。&lt;/p&gt;
     
     </summary>
     
@@ -73,7 +73,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Apr 29 2020 09:16:58 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;微信公众号”书单”发布的一篇文章，引发共鸣。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;微信公众号”书单”发布的一篇文章，引发共鸣。&lt;/p&gt;
     
     </summary>
     
@@ -96,7 +96,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:40:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;优化项目时的踩坑日记，使用Pjax多个局部无刷新同步获取。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;优化项目时的踩坑日记，使用Pjax多个局部无刷新同步获取。&lt;/p&gt;
     
     </summary>
     
@@ -121,7 +121,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;官方文档没有完善这方面的内容，在此完善Redis调用方法。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;官方文档没有完善这方面的内容，在此完善Redis调用方法。&lt;/p&gt;
     
     </summary>
     
@@ -148,7 +148,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;适用于Phalapi 2.x的Redis限制用户访问api频率请求的函数方法实现。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;适用于Phalapi 2.x的Redis限制用户访问api频率请求的函数方法实现。&lt;/p&gt;
     
     </summary>
     
@@ -175,7 +175,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;最近在计划设计一个项目时，意外发现一个PHP匿名函数（或闭包函数）的趣味性。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;最近在计划设计一个项目时，意外发现一个PHP匿名函数（或闭包函数）的趣味性。&lt;/p&gt;
     
     </summary>
     
@@ -202,7 +202,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上关于使用免费代码托管平台部署独立博客的文章很多：Github Pages、Netlify、七牛云OSS…..但大多数都是用LeanCloud部署评论存储，有点大材小用。正巧网站刚刚通过了备案，在此做一份使用LeanCloud来部署Hexo博客的教程。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上关于使用免费代码托管平台部署独立博客的文章很多：Github Pages、Netlify、七牛云OSS…..但大多数都是用LeanCloud部署评论存储，有点大材小用。正巧网站刚刚通过了备案，在此做一份使用LeanCloud来部署Hexo博客的教程。&lt;/p&gt;
     
     </summary>
     
@@ -225,7 +225,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一段代码使 Hexo 自动从文章more标签处提取description标签内容。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一段代码使 Hexo 自动从文章more标签处提取description标签内容。&lt;/p&gt;
     
     </summary>
     
@@ -246,7 +246,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;学习Bootstarp-Table的实习作品。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;学习Bootstarp-Table的实习作品。&lt;/p&gt;
     
     </summary>
     
@@ -271,7 +271,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;缅怀同胞，铭记英雄。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;缅怀同胞，铭记英雄。&lt;/p&gt;
     
     </summary>
     
@@ -288,7 +288,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;学习TGideas的经验时偶然发现了腾讯官方用于文章排版的一个小工具，且应用十分简单，只需要增加一段代码即可。这个插件不仅可以对冗余样式、缩进的文章代码进行优化，并且还支持背景颜色的设置。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;学习TGideas的经验时偶然发现了腾讯官方用于文章排版的一个小工具，且应用十分简单，只需要增加一段代码即可。这个插件不仅可以对冗余样式、缩进的文章代码进行优化，并且还支持背景颜色的设置。&lt;/p&gt;
     
     </summary>
     
@@ -311,7 +311,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;安全问题无小事，web前端是Web安全的第一道屏障，本篇结合真实案例及相关资料，汇总整理了前端方面的安全防护措施,请大家一定要重视。如有遇到新的问题，欢迎反馈。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;安全问题无小事，web前端是Web安全的第一道屏障，本篇结合真实案例及相关资料，汇总整理了前端方面的安全防护措施,请大家一定要重视。如有遇到新的问题，欢迎反馈。&lt;/p&gt;
     
     </summary>
     
@@ -338,7 +338,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;折腾完技术，该开始折腾游戏了。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;折腾完技术，该开始折腾游戏了。&lt;/p&gt;
     
     </summary>
     
@@ -373,7 +373,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上的导出特定网站的cookie方法多种多样，大多操作复杂，这是我总结得出的简单一步导出相应网站cookie。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上的导出特定网站的cookie方法多种多样，大多操作复杂，这是我总结得出的简单一步导出相应网站cookie。&lt;/p&gt;
     
     </summary>
     
@@ -398,7 +398,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:21 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;HomeAssistant的Devicetracker是个非常有用的组件，通过设备追踪可以判断设备的在线情况从而执行不同的自动化操作。可是iPhone的睡眠策略（长时间睡眠后断开WiFI）会导致设备追踪误以为设备已经离开从而执行「不在家」的自动化…..&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;HomeAssistant的Devicetracker是个非常有用的组件，通过设备追踪可以判断设备的在线情况从而执行不同的自动化操作。可是iPhone的睡眠策略（长时间睡眠后断开WiFI）会导致设备追踪误以为设备已经离开从而执行「不在家」的自动化…..&lt;/p&gt;
     
     </summary>
     
@@ -408,13 +408,13 @@
       <category term="智能家居" scheme="https://www.webaun.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/"/>
     
     
+      <category term="智能家居" scheme="https://www.webaun.cn/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/"/>
+    
       <category term="嵌入式" scheme="https://www.webaun.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
       <category term="物联网" scheme="https://www.webaun.cn/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
     
       <category term="智能设备" scheme="https://www.webaun.cn/tags/%E6%99%BA%E8%83%BD%E8%AE%BE%E5%A4%87/"/>
-    
-      <category term="智能家居" scheme="https://www.webaun.cn/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/"/>
     
       <category term="HomeAssistant" scheme="https://www.webaun.cn/tags/HomeAssistant/"/>
     
@@ -429,7 +429,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;从一次游戏活动页面学习到的JS完成前端运行可预测、可控制的随机文字生成。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;从一次游戏活动页面学习到的JS完成前端运行可预测、可控制的随机文字生成。&lt;/p&gt;
     
     </summary>
     
@@ -454,7 +454,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Keil的编程环境落后、伤眼、用起来不舒适？工欲善其事，必先利其器。VSCode + SDCC助你在C51单片机嵌入式开发上游刃有余。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Keil的编程环境落后、伤眼、用起来不舒适？工欲善其事，必先利其器。VSCode + SDCC助你在C51单片机嵌入式开发上游刃有余。&lt;/p&gt;
     
     </summary>
     
@@ -477,7 +477,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Smali语法适用于Android逆向分析，是学习Android反编译，审查app应用代码漏洞，破解app应用的基础。本文将分为多章内容，简洁明了说明Smali语法命令的各种意义。让读者快速掌握Smali语法，便利于反编译程序员对记忆不清的命令意义进行搜索。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Smali语法适用于Android逆向分析，是学习Android反编译，审查app应用代码漏洞，破解app应用的基础。本文将分为多章内容，简洁明了说明Smali语法命令的各种意义。让读者快速掌握Smali语法，便利于反编译程序员对记忆不清的命令意义进行搜索。&lt;/p&gt;
     
     </summary>
     
@@ -498,7 +498,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 13:32:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Laravel是一个功能强大的框架，组件很多，代码也很庞大，它的易用方便是以牺牲性能为前提的，即便如此它仍然是一个优秀、主流的框架，但在正式环境下还要做好优化提升网站的运行速度。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 11:57:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Laravel是一个功能强大的框架，组件很多，代码也很庞大，它的易用方便是以牺牲性能为前提的，即便如此它仍然是一个优秀、主流的框架，但在正式环境下还要做好优化提升网站的运行速度。&lt;/p&gt;
     
     </summary>
     
