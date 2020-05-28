@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.webaun.cn/"/>
-  <updated>2020-05-28T04:00:00.600Z</updated>
+  <updated>2020-05-28T04:05:58.614Z</updated>
   <id>https://www.webaun.cn/</id>
   
   <author>
@@ -17,15 +17,15 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>NodeMCU 内存栈不足解决</title>
+    <title>NodeMCU 内存栈不足解决🚀</title>
     <link href="https://www.webaun.cn/passages/27/"/>
     <id>https://www.webaun.cn/passages/27/</id>
     <published>2020-05-28T02:56:06.000Z</published>
-    <updated>2020-05-28T04:00:00.600Z</updated>
+    <updated>2020-05-28T04:05:58.614Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 28 2020 12:00:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NodeMCU作为成熟的ESP8266模块平台，内存溢出，内存不足是其最大的缺点。本文指出一些我在学习过程中，对NodeMCU内存溢出的解决方案。&lt;/p&gt;
+      &lt;!-- build time:Thu May 28 2020 12:06:22 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NodeMCU作为成熟的ESP8266模块平台，内存溢出，内存不足是其最大的缺点。本文指出一些我在学习过程中，对NodeMCU内存溢出的解决方案。&lt;/p&gt;
     
     </summary>
     
