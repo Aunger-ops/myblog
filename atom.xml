@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.webaun.cn/"/>
-  <updated>2020-05-28T04:05:58.614Z</updated>
+  <updated>2020-06-02T07:42:34.951Z</updated>
   <id>https://www.webaun.cn/</id>
   
   <author>
@@ -17,6 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>This is China.🇨🇳</title>
+    <link href="https://www.webaun.cn/passages/28/"/>
+    <id>https://www.webaun.cn/passages/28/</id>
+    <published>2020-06-02T07:28:56.000Z</published>
+    <updated>2020-06-02T07:42:34.951Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Jun 02 2020 15:43:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;期待一个新的十年；这也是中国，遭遇突如其来的疫情。这是中国，因生命的逝去悲痛；这也是中国，为生命不惜代价。无论何地，14亿中国人团结一心，为了960万平方公里山河无恙；无论何时，14亿中国人风雨同行，为了整个中华民族的伟大复兴！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="CHINA" scheme="https://www.webaun.cn/categories/CHINA/"/>
+    
+    
+      <category term="CHINA 🇨🇳" scheme="https://www.webaun.cn/tags/CHINA-%F0%9F%87%A8%F0%9F%87%B3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>NodeMCU 内存栈不足解决🚀</title>
     <link href="https://www.webaun.cn/passages/27/"/>
     <id>https://www.webaun.cn/passages/27/</id>
@@ -25,7 +46,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 28 2020 12:06:22 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NodeMCU作为成熟的ESP8266模块平台，内存溢出，内存不足是其最大的缺点。本文指出一些我在学习过程中，对NodeMCU内存溢出的解决方案。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NodeMCU作为成熟的ESP8266模块平台，内存溢出，内存不足是其最大的缺点。本文指出一些我在学习过程中，对NodeMCU内存溢出的解决方案。&lt;/p&gt;
     
     </summary>
     
@@ -46,7 +67,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NodeMCU使用串口通讯模块发送16进制信息&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NodeMCU使用串口通讯模块发送16进制信息&lt;/p&gt;
     
     </summary>
     
@@ -71,7 +92,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;使用Creat-Tim的组件，做的第一份主题作品。&lt;br&gt;应用于PhalAPI框架&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;使用Creat-Tim的组件，做的第一份主题作品。&lt;br&gt;应用于PhalAPI框架&lt;/p&gt;
     
     </summary>
     
@@ -94,7 +115,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;前段时间心血来潮做了个生活面板，通过调用自己写的API。目前已经完成一大半。雏版发出来，纪念一下。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;前段时间心血来潮做了个生活面板，通过调用自己写的API。目前已经完成一大半。雏版发出来，纪念一下。&lt;/p&gt;
     
     </summary>
     
@@ -119,7 +140,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;微信公众号”书单”发布的一篇文章，引发共鸣。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;微信公众号”书单”发布的一篇文章，引发共鸣。&lt;/p&gt;
     
     </summary>
     
@@ -142,7 +163,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;优化项目时的踩坑日记，使用Pjax多个局部无刷新同步获取。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;优化项目时的踩坑日记，使用Pjax多个局部无刷新同步获取。&lt;/p&gt;
     
     </summary>
     
@@ -167,7 +188,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;官方文档没有完善这方面的内容，在此完善Redis调用方法。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;官方文档没有完善这方面的内容，在此完善Redis调用方法。&lt;/p&gt;
     
     </summary>
     
@@ -194,7 +215,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;适用于Phalapi 2.x的Redis限制用户访问api频率请求的函数方法实现。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;适用于Phalapi 2.x的Redis限制用户访问api频率请求的函数方法实现。&lt;/p&gt;
     
     </summary>
     
@@ -221,7 +242,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;最近在计划设计一个项目时，意外发现一个PHP匿名函数（或闭包函数）的趣味性。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;最近在计划设计一个项目时，意外发现一个PHP匿名函数（或闭包函数）的趣味性。&lt;/p&gt;
     
     </summary>
     
@@ -248,7 +269,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上关于使用免费代码托管平台部署独立博客的文章很多：Github Pages、Netlify、七牛云OSS…..但大多数都是用LeanCloud部署评论存储，有点大材小用。正巧网站刚刚通过了备案，在此做一份使用LeanCloud来部署Hexo博客的教程。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上关于使用免费代码托管平台部署独立博客的文章很多：Github Pages、Netlify、七牛云OSS…..但大多数都是用LeanCloud部署评论存储，有点大材小用。正巧网站刚刚通过了备案，在此做一份使用LeanCloud来部署Hexo博客的教程。&lt;/p&gt;
     
     </summary>
     
@@ -271,7 +292,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一段代码使 Hexo 自动从文章more标签处提取description标签内容。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;一段代码使 Hexo 自动从文章more标签处提取description标签内容。&lt;/p&gt;
     
     </summary>
     
@@ -292,7 +313,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;学习Bootstarp-Table的实习作品。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;学习Bootstarp-Table的实习作品。&lt;/p&gt;
     
     </summary>
     
@@ -317,7 +338,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;缅怀同胞，铭记英雄。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;缅怀同胞，铭记英雄。&lt;/p&gt;
     
     </summary>
     
@@ -334,7 +355,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;学习TGideas的经验时偶然发现了腾讯官方用于文章排版的一个小工具，且应用十分简单，只需要增加一段代码即可。这个插件不仅可以对冗余样式、缩进的文章代码进行优化，并且还支持背景颜色的设置。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;学习TGideas的经验时偶然发现了腾讯官方用于文章排版的一个小工具，且应用十分简单，只需要增加一段代码即可。这个插件不仅可以对冗余样式、缩进的文章代码进行优化，并且还支持背景颜色的设置。&lt;/p&gt;
     
     </summary>
     
@@ -357,7 +378,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;安全问题无小事，web前端是Web安全的第一道屏障，本篇结合真实案例及相关资料，汇总整理了前端方面的安全防护措施,请大家一定要重视。如有遇到新的问题，欢迎反馈。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;安全问题无小事，web前端是Web安全的第一道屏障，本篇结合真实案例及相关资料，汇总整理了前端方面的安全防护措施,请大家一定要重视。如有遇到新的问题，欢迎反馈。&lt;/p&gt;
     
     </summary>
     
@@ -384,7 +405,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;折腾完技术，该开始折腾游戏了。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;折腾完技术，该开始折腾游戏了。&lt;/p&gt;
     
     </summary>
     
@@ -419,7 +440,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上的导出特定网站的cookie方法多种多样，大多操作复杂，这是我总结得出的简单一步导出相应网站cookie。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;网上的导出特定网站的cookie方法多种多样，大多操作复杂，这是我总结得出的简单一步导出相应网站cookie。&lt;/p&gt;
     
     </summary>
     
@@ -444,7 +465,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;HomeAssistant的Devicetracker是个非常有用的组件，通过设备追踪可以判断设备的在线情况从而执行不同的自动化操作。可是iPhone的睡眠策略（长时间睡眠后断开WiFI）会导致设备追踪误以为设备已经离开从而执行「不在家」的自动化…..&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;HomeAssistant的Devicetracker是个非常有用的组件，通过设备追踪可以判断设备的在线情况从而执行不同的自动化操作。可是iPhone的睡眠策略（长时间睡眠后断开WiFI）会导致设备追踪误以为设备已经离开从而执行「不在家」的自动化…..&lt;/p&gt;
     
     </summary>
     
@@ -475,7 +496,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;从一次游戏活动页面学习到的JS完成前端运行可预测、可控制的随机文字生成。&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;从一次游戏活动页面学习到的JS完成前端运行可预测、可控制的随机文字生成。&lt;/p&gt;
     
     </summary>
     
@@ -488,29 +509,6 @@
       <category term="前端" scheme="https://www.webaun.cn/tags/%E5%89%8D%E7%AB%AF/"/>
     
       <category term="Javascript" scheme="https://www.webaun.cn/tags/Javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>51单片机之开发环境使用VSCode结合SDCC取代Keil</title>
-    <link href="https://www.webaun.cn/passages/7/"/>
-    <id>https://www.webaun.cn/passages/7/</id>
-    <published>2020-02-22T13:25:36.000Z</published>
-    <updated>2020-03-04T01:51:31.274Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri May 15 2020 17:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Keil的编程环境落后、伤眼、用起来不舒适？工欲善其事，必先利其器。VSCode + SDCC助你在C51单片机嵌入式开发上游刃有余。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="嵌入式开发" scheme="https://www.webaun.cn/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91/"/>
-    
-    
-      <category term="嵌入式" scheme="https://www.webaun.cn/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-      <category term="51单片机" scheme="https://www.webaun.cn/tags/51%E5%8D%95%E7%89%87%E6%9C%BA/"/>
     
   </entry>
   
