@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.webaun.cn/"/>
-  <updated>2020-06-02T07:42:34.951Z</updated>
+  <updated>2020-08-05T14:26:25.191Z</updated>
   <id>https://www.webaun.cn/</id>
   
   <author>
@@ -17,15 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一种优化手机群工作站的速度提升方法</title>
+    <link href="https://www.webaun.cn/passages/29/"/>
+    <id>https://www.webaun.cn/passages/29/</id>
+    <published>2020-08-05T13:56:26.000Z</published>
+    <updated>2020-08-05T14:26:25.191Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Wed Aug 05 2020 22:27:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;终于想起来了自己&lt;em&gt;&lt;del&gt;还有个&lt;/del&gt;&lt;/em&gt;博客的打开方法…&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="自动化" scheme="https://www.webaun.cn/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+    
+      <category term="自动化" scheme="https://www.webaun.cn/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+      <category term="工作室手机站群" scheme="https://www.webaun.cn/tags/%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%89%8B%E6%9C%BA%E7%AB%99%E7%BE%A4/"/>
+    
+  </entry>
+  
+  <entry>
     <title>This is China.🇨🇳</title>
     <link href="https://www.webaun.cn/passages/28/"/>
     <id>https://www.webaun.cn/passages/28/</id>
     <published>2020-06-02T07:28:56.000Z</published>
-    <updated>2020-06-02T07:42:34.951Z</updated>
+    <updated>2020-06-02T07:44:10.765Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 02 2020 15:43:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;期待一个新的十年；这也是中国，遭遇突如其来的疫情。这是中国，因生命的逝去悲痛；这也是中国，为生命不惜代价。无论何地，14亿中国人团结一心，为了960万平方公里山河无恙；无论何时，14亿中国人风雨同行，为了整个中华民族的伟大复兴！&lt;/p&gt;
+      &lt;!-- build time:Tue Jun 02 2020 15:44:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;期待一个新的十年；这也是中国，遭遇突如其来的疫情。这是中国，因生命的逝去悲痛；这也是中国，为生命不惜代价。无论何地，14亿中国人团结一心，为了960万平方公里山河无恙；无论何时，14亿中国人风雨同行，为了整个中华民族的伟大复兴！&lt;/p&gt;
     
     </summary>
     
@@ -484,31 +507,6 @@
       <category term="智能设备" scheme="https://www.webaun.cn/tags/%E6%99%BA%E8%83%BD%E8%AE%BE%E5%A4%87/"/>
     
       <category term="HomeAssistant" scheme="https://www.webaun.cn/tags/HomeAssistant/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>用JS写前端可预测的随机</title>
-    <link href="https://www.webaun.cn/passages/8/"/>
-    <id>https://www.webaun.cn/passages/8/</id>
-    <published>2020-02-23T13:25:54.000Z</published>
-    <updated>2020-03-04T01:51:38.486Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Jun 02 2020 15:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;从一次游戏活动页面学习到的JS完成前端运行可预测、可控制的随机文字生成。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="前端" scheme="https://www.webaun.cn/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="Javascript" scheme="https://www.webaun.cn/categories/%E5%89%8D%E7%AB%AF/Javascript/"/>
-    
-    
-      <category term="前端" scheme="https://www.webaun.cn/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="Javascript" scheme="https://www.webaun.cn/tags/Javascript/"/>
     
   </entry>
   
